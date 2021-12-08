@@ -1,0 +1,1 @@
+{"buildTargets":["apply","init","plan","tfvars","validate","workspace/list"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
